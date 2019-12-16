@@ -5,7 +5,7 @@
 	<p>
 		<p>
 			<sup>
-				<a href="https://xkcd.cali.run/"><--Link to www.The challenge of the performance.dev-->
+				<a href='https://xkcd.cali.run/' title='The challenge of the performance.dev'>
                 Die Vorstellung: Dies soll ein anonymes Non-Profit Portal werden. Mit klarer, unverrückbarer Position.<br/>
                 Die Herrausforderung: Ohne Daten zu sammeln und sich die Taschen zu füllen die Aufklärung vorrantreiben.<br/>
 			</sup>
