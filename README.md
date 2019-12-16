@@ -5,7 +5,9 @@
 	<p>
 		<p>
 			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">Das wird so sicher nichts!</a>
+				<a href="https://github.com/sponsors/sindresorhus">
+                Dies soll ein anonymes Non-Profit Portal werden. Ich schaffe es alleine nicht!<br>
+                Werder meine Skills decken das Spektrum noch meine Zeit deckelt denn Aufwand.</a>
 			</sup>
 		</p>
 		<sup>Special thanks to:</sup>
