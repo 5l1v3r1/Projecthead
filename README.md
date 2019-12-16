@@ -5,9 +5,9 @@
 	<p>
 		<p>
 			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">
-                Dies soll ein anonymes Non-Profit Portal werden. Ich schaffe es alleine nicht!<br>
-                Werder meine Skills decken das Spektrum noch meine Zeit deckelt denn Aufwand.</a>
+				<a href="https://xkcd.cali.run/"><--Link to www.The challenge of the performance.dev-->
+                Die Vorstellung: Dies soll ein anonymes Non-Profit Portal werden. Mit klarer, unverrückbarer Position.<br/>
+                Die Herrausforderung: Ohne Daten zu sammeln und sich die Taschen zu füllen die Aufklärung vorrantreiben.<br/>
 			</sup>
 		</p>
 		<sup>Special thanks to:</sup>
